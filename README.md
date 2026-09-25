@@ -15,7 +15,7 @@
 ## `01.` Sobre mim
 
 Eu circulo por um lugar pouco comum: o meio-termo entre **código** e **serviço público**.
-No dia a dia, isso significa traduzir problema real em solução técnica — seja automatizando um relatório que antes levava horas, seja explicando pra um gestor *por que* um modelo de IA tomou determinada decisão (sim, IA explicável existe, e não, não é magia).
+No dia a dia, isso significa traduzir problema em solução técnica, seja automatizando um relatório que antes levava horas, seja explicando pra um gestor *por que* um modelo de IA tomou determinada decisão (sim, IA explicável existe, e não, não é magia).
 
 Gosto de trabalhar em três frentes que conversam entre si:
 
@@ -23,7 +23,7 @@ Gosto de trabalhar em três frentes que conversam entre si:
 - **Entender** → RAG, prompt engineering, e a pergunta que mais faço pra qualquer modelo: *"por quê?"*
 - **Sustentar** → Linux, redes, DNS, hardware, troubleshooting — porque de nada adianta o sistema bonito se o servidor cai.
 
-E sim, uso Linux no terminal todos os dias. O Windows foi só uma fase. 😄
+E sim, uso Linux no terminal todos os dias. O Windows foi só uma fase. 
 
 <br>
 
@@ -130,7 +130,7 @@ E sim, uso Linux no terminal todos os dias. O Windows foi só uma fase. 😄
 <img src="https://raw.githubusercontent.com/Geovannarn/Geovannarn/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-> A cobrinha acima é gerada automaticamente via GitHub Actions a partir do seu grid de contribuições — veja a observação logo após este bloco para ativá-la.
+> A cobrinha acima é gerada automaticamente via GitHub Actions a partir do seu grid de contribuições, veja a observação logo após este bloco para ativá-la.
 
 <br>
 
