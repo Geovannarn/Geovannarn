@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,60:14213D,100:F4A6C9&height=180&section=header&text=Geovanna%20Rodrigues%20Nascimento&fontSize=32&fontColor=F5F5F7&fontAlignY=42&desc=Building%2C%20understanding%20and%20sustaining%20systems&descAlignY=62&descSize=15&animation=fadeIn" width="100%" alt="Banner: Geovanna Rodrigues Nascimento - Building, understanding and sustaining systems"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=18&duration=3200&pause=900&color=F4A6C9&center=true&vCenter=true&width=600&lines=Systems+Analysis+%26+Development;Looking+for+an+IT+Support+internship;Python+%7C+Django+%7C+SQL+%7C+Git;Generative+AI+%26+Prompt+Engineering;Explainable+AI+(SHAP+%2F+LIME);Linux+%2B+Networking+%2B+LGPD" alt="Animated text: Systems Analysis and Development, IT Support internship, Python, Django, SQL, Git, Generative AI, Explainable AI, Linux, Networking and LGPD" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=18&duration=3200&pause=900&color=F4A6C9&center=true&vCenter=true&width=600&lines=Systems+Analysis+%26+Development;Looking+for+an+IT+Support+internship;Python+%7C+Java+%7C+Django+%7C+SQL+%7C+Git;Generative+AI+%26+Prompt+Engineering;Explainable+AI+(SHAP+%2F+LIME);Linux+%2B+Networking+%2B+LGPD" alt="Animated text: Systems Analysis and Development, IT Support internship, Python, Java, Django, SQL, Git, Generative AI, Explainable AI, Linux, Networking and LGPD" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@ I am studying **Systems Analysis and Development (ADS) at Gran Faculdade** and I
 
 I like to work on three fronts that talk to each other:
 
-- **Build:** Python, Django, APIs, SQL and version control with Git.
+- **Build:** Python, Java, Django, APIs, SQL and version control with Git.
 - **Understand:** RAG, Prompt Engineering and explainable AI (SHAP and LIME).
 - **Sustain:** Linux, command line, networking, DNS, hardware and troubleshooting.
 
@@ -75,6 +75,7 @@ Systems Analysis and Development (ADS) · in progress
 
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=F4A6C9" />
+<img alt="Java" src="https://img.shields.io/badge/Java-0D0D0D?style=flat-square&logo=openjdk&logoColor=F4A6C9" />
 <img alt="Django" src="https://img.shields.io/badge/Django-0D0D0D?style=flat-square&logo=django&logoColor=F4A6C9" />
 <img alt="APIs" src="https://img.shields.io/badge/APIs-0D0D0D?style=flat-square&logo=fastapi&logoColor=F4A6C9" />
 <img alt="SQL" src="https://img.shields.io/badge/SQL-0D0D0D?style=flat-square&logo=postgresql&logoColor=F4A6C9" />
@@ -214,7 +215,7 @@ Email: **grodriguesnascimento14@gmail.com**
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,60:14213D,100:F4A6C9&height=180&section=header&text=Geovanna%20Rodrigues%20Nascimento&fontSize=32&fontColor=F5F5F7&fontAlignY=42&desc=Construindo%2C%20entendendo%20e%20sustentando%20sistemas&descAlignY=62&descSize=15&animation=fadeIn" width="100%" alt="Banner: Geovanna Rodrigues Nascimento - Construindo, entendendo e sustentando sistemas"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=18&duration=3200&pause=900&color=F4A6C9&center=true&vCenter=true&width=600&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Em+busca+de+est%C3%A1gio+em+Suporte+de+TI;Python+%7C+Django+%7C+SQL+%7C+Git;IA+Generativa+%26+Prompt+Engineering;IA+Expl%C3%A1vel+(SHAP+%2F+LIME);Linux+%2B+Redes+%2B+LGPD" alt="Texto animado: Análise e Desenvolvimento de Sistemas, estágio em Suporte de TI, Python, Django, SQL, Git, IA Generativa, IA Explicável, Linux, Redes e LGPD" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=18&duration=3200&pause=900&color=F4A6C9&center=true&vCenter=true&width=600&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Em+busca+de+est%C3%A1gio+em+Suporte+de+TI;Python+%7C+Java+%7C+Django+%7C+SQL+%7C+Git;IA+Generativa+%26+Prompt+Engineering;IA+Expl%C3%A1vel+(SHAP+%2F+LIME);Linux+%2B+Redes+%2B+LGPD" alt="Texto animado: Análise e Desenvolvimento de Sistemas, estágio em Suporte de TI, Python, Java, Django, SQL, Git, IA Generativa, IA Explicável, Linux, Redes e LGPD" />
 </a>
 
 <br/>
@@ -236,7 +237,7 @@ Estudo **Análise e Desenvolvimento de Sistemas (ADS) na Gran Faculdade** e tenh
 
 Gosto de trabalhar em três frentes que conversam entre si:
 
-- **Construir:** Python, Django, APIs, SQL e versionamento com Git.
+- **Construir:** Python, Java, Django, APIs, SQL e versionamento com Git.
 - **Entender:** RAG, Prompt Engineering e IA explicável (SHAP e LIME).
 - **Sustentar:** Linux, linha de comando, redes, DNS, hardware e troubleshooting.
 
@@ -284,6 +285,7 @@ Análise e Desenvolvimento de Sistemas (ADS) · em andamento
 
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=F4A6C9" />
+<img alt="Java" src="https://img.shields.io/badge/Java-0D0D0D?style=flat-square&logo=openjdk&logoColor=F4A6C9" />
 <img alt="Django" src="https://img.shields.io/badge/Django-0D0D0D?style=flat-square&logo=django&logoColor=F4A6C9" />
 <img alt="APIs" src="https://img.shields.io/badge/APIs-0D0D0D?style=flat-square&logo=fastapi&logoColor=F4A6C9" />
 <img alt="SQL" src="https://img.shields.io/badge/SQL-0D0D0D?style=flat-square&logo=postgresql&logoColor=F4A6C9" />
