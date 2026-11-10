@@ -31,7 +31,7 @@ I like to work on three fronts that talk to each other:
 - **Understand:** RAG, Prompt Engineering and explainable AI (SHAP and LIME).
 - **Sustain:** Linux, command line, networking, DNS, hardware and troubleshooting.
 
-**Goal:** to get an internship in Information Technology, preferably in IT Support, applying my technical and project management knowledge, contributing to the team and gaining hands-on experience.
+**Goal:** to get an internship in Technology.
 
 <br>
 
@@ -39,11 +39,11 @@ I like to work on three fronts that talk to each other:
 
 | | |
 | :-- | :-- |
-| **Looking for** | IT Support internship |
-| **Studying** | Systems Analysis and Development (Gran Faculdade) |
+| **Looking for** | Technology internship |
+| **Studying** | Systems Analysis and Development |
 | **Starting** | Information Systems (IFB), February 2027 |
 | **Learning** | Software Development (IFB, expected Nov/2026): Django, APIs, databases and software architecture |
-| **Exploring** | Cybersecurity, data and AI applied to banking |
+| **Exploring** | Cybersecurity, data and AI |
 | **Open to talk about** | Explainable AI, data governance and LGPD |
 
 <br>
@@ -51,13 +51,17 @@ I like to work on three fronts that talk to each other:
 ## Education
 
 **Gran Faculdade**
-Systems Analysis and Development (ADS) · in progress
+
+Systems Analysis and Development (ADS) - in progress
+
 <sub>Systems analysis, software development, databases and project management.</sub>
 
 <br>
 
 **Federal Institute of Brasília (IFB)**
-Information Systems · starting February 2027
+
+Information Systems - starting February 2027
+
 <sub>Software development, databases, software engineering and information management.</sub>
 
 <br>
@@ -149,7 +153,7 @@ Information Systems · starting February 2027
 
 <div align="center">
 
-I am looking for an IT Support internship. If you have an opening or just want to talk about technology, get in touch.
+I am looking for a Technology internship. If you have an opening or just want to talk about technology, get in touch.
 
 Email: **grodriguesnascimento14@gmail.com**
 
