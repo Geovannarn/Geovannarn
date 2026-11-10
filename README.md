@@ -41,13 +41,14 @@ I like to work on three fronts that talk to each other:
 | :-- | :-- |
 | **Looking for** | IT Support internship |
 | **Studying** | Systems Analysis and Development (Gran Faculdade) |
+| **Starting** | Information Systems (IFB), February 2027 |
 | **Learning** | Software Development (IFB, expected Nov/2026): Django, APIs, databases and software architecture |
 | **Exploring** | Cybersecurity, data and AI applied to banking |
 | **Open to talk about** | Explainable AI, data governance and LGPD |
 
 <br>
 
-## Education and certifications
+## Education
 
 **Gran Faculdade**
 Systems Analysis and Development (ADS) · in progress
@@ -55,11 +56,17 @@ Systems Analysis and Development (ADS) · in progress
 
 <br>
 
-- **Software Development**, IFB: in progress, expected Nov/2026
-- **Google IT Support**, Google
-- **Bradesco Bootcamp – GenAI, Data & Cyber**, Bradesco: Sep/2026
+**Federal Institute of Brasília (IFB)**
+Information Systems · starting February 2027
+<sub>Software development, databases, software engineering and information management.</sub>
+
+<br>
+
+## Certifications
+
 - **Data Engineering Fundamentals**, Data Science Academy
-- **Office Suite and Power BI**, Funda&ccedil;&atilde;o Bradesco
+- **Google IT Support**, Google: in progress
+- **AWS Certified AI Practitioner**, Amazon Web Services: in progress
 
 <br>
 
@@ -251,13 +258,14 @@ Gosto de trabalhar em três frentes que conversam entre si:
 | :-- | :-- |
 | **Procurando** | Estágio em Suporte de TI |
 | **Cursando** | Análise e Desenvolvimento de Sistemas (Gran Faculdade) |
+| **Ingressando em** | Sistemas de Informação (IFB), fevereiro de 2027 |
 | **Estudando** | Desenvolvimento de Software (IFB, previsão Nov/2026): Django, APIs, bancos de dados e arquitetura de software |
 | **Explorando** | Cibersegurança, dados e IA aplicada ao setor bancário |
 | **Aberta a conversas sobre** | IA explicável, governança de dados e LGPD |
 
 <br>
 
-## Formação e certificações
+## Formação
 
 **Gran Faculdade**
 Análise e Desenvolvimento de Sistemas (ADS) · em andamento
@@ -265,11 +273,17 @@ Análise e Desenvolvimento de Sistemas (ADS) · em andamento
 
 <br>
 
-- **Desenvolvimento de Software**, IFB: em andamento, previsão Nov/2026
-- **Suporte de TI do Google**, Google
-- **Bootcamp Bradesco – GenAI, Dados & Cyber**, Bradesco: Set/2026
+**Instituto Federal de Brasília (IFB)**
+Sistemas de Informação · ingresso em fevereiro de 2027
+<sub>Desenvolvimento de software, bancos de dados, engenharia de software e gestão da informação.</sub>
+
+<br>
+
+## Certificações
+
 - **Fundamentos de Engenharia de Dados**, Data Science Academy
-- **Pacote Office e Power BI**, Fundação Bradesco
+- **Suporte de TI do Google**, Google: em andamento
+- **AWS Certified AI Practitioner**, Amazon Web Services: em andamento
 
 <br>
 
