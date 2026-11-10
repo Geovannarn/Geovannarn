@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,60:14213D,100:F4A6C9&height=180&section=header&text=Geovanna%20Rodrigues%20Nascimento&fontSize=32&fontColor=F5F5F7&fontAlignY=42&desc=Building%2C%20understanding%20and%20sustaining%20systems&descAlignY=62&descSize=15&animation=fadeIn" width="100%" alt="Banner: Geovanna Rodrigues Nascimento - Building, understanding and sustaining systems"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,60:14213D,100:F4A6C9&height=180&section=header&text=Geovanna%20Rodrigues%20Nascimento&fontSize=32&fontColor=F5F5F7&fontAlignY=50&animation=fadeIn" width="100%" alt="Banner: Geovanna Rodrigues Nascimento"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=18&duration=3200&pause=900&color=F4A6C9&center=true&vCenter=true&width=600&lines=Systems+Analysis+%26+Development;Looking+for+an+IT+Support+internship;Python+%7C+Java+%7C+Django+%7C+SQL+%7C+Git;Generative+AI+%26+Prompt+Engineering;Explainable+AI+(SHAP+%2F+LIME);Linux+%2B+Networking+%2B+LGPD" alt="Animated text: Systems Analysis and Development, IT Support internship, Python, Java, Django, SQL, Git, Generative AI, Explainable AI, Linux, Networking and LGPD" />
@@ -95,6 +95,8 @@ Information Systems · starting February 2027
 <p>
 <img alt="Generative AI" src="https://img.shields.io/badge/Generative%20AI-14213D?style=flat-square&logo=openai&logoColor=F4A6C9" />
 <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-14213D?style=flat-square&logo=googlegemini&logoColor=F4A6C9" />
+<img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-14213D?style=flat-square&logo=scikitlearn&logoColor=F4A6C9" />
+<img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-14213D?style=flat-square&logoColor=F4A6C9" />
 <img alt="RAG" src="https://img.shields.io/badge/RAG-14213D?style=flat-square&logo=databricks&logoColor=F4A6C9" />
 <img alt="SHAP and LIME" src="https://img.shields.io/badge/SHAP%20%2F%20LIME-14213D?style=flat-square&logo=scikitlearn&logoColor=F4A6C9" />
 <img alt="Excel" src="https://img.shields.io/badge/Excel-14213D?style=flat-square&logo=microsoftexcel&logoColor=F4A6C9" />
@@ -132,54 +134,12 @@ Information Systems · starting February 2027
 
 ## Featured projects
 
-<div align="center">
-<a href="https://github.com/Geovannarn/deteccao-fraude-carta">
-<img alt="Repository deteccao-fraude-carta" src="https://github-readme-stats.vercel.app/api/pin/?username=Geovannarn&repo=deteccao-fraude-carta&theme=transparent&title_color=F4A6C9&icon_color=F4A6C9&text_color=8B95A5&border_color=2A3550&bg_color=00000000" />
-</a>
-<a href="https://github.com/Geovannarn/dio-lab-bia-do-futuro">
-<img alt="Repository dio-lab-bia-do-futuro" src="https://github-readme-stats.vercel.app/api/pin/?username=Geovannarn&repo=dio-lab-bia-do-futuro&theme=transparent&title_color=F4A6C9&icon_color=F4A6C9&text_color=8B95A5&border_color=2A3550&bg_color=00000000" />
-</a>
-<a href="https://github.com/Geovannarn/Extraindo-Insights-do-Feedback-de-Clientes-Banc-rios">
-<img alt="Repository Extraindo Insights do Feedback de Clientes Bancarios" src="https://github-readme-stats.vercel.app/api/pin/?username=Geovannarn&repo=Extraindo-Insights-do-Feedback-de-Clientes-Banc-rios&theme=transparent&title_color=F4A6C9&icon_color=F4A6C9&text_color=8B95A5&border_color=2A3550&bg_color=00000000" />
-</a>
-<a href="https://github.com/Geovannarn/caixa-preta-bancaria">
-<img alt="Repository caixa-preta-bancaria" src="https://github-readme-stats.vercel.app/api/pin/?username=Geovannarn&repo=caixa-preta-bancaria&theme=transparent&title_color=F4A6C9&icon_color=F4A6C9&text_color=8B95A5&border_color=2A3550&bg_color=00000000" />
-</a>
-</div>
-
-<br>
-
 | Project | Problem | How I solved it | Result |
 | :-- | :-- | :-- | :-- |
-| **[deteccao-fraude-carta](https://github.com/Geovannarn/deteccao-fraude-carta)** | Identify fraud in card transactions | Data analysis and machine learning techniques to identify patterns associated with fraudulent transactions | A fraud detection solution that applies AI to spotting suspicious transactions |
+| **[deteccao-fraude-carta](https://github.com/Geovannarn/deteccao-fraude-carta)** | Identify fraud in card transactions | Data analysis and machine learning to identify fraud patterns: class balancing with SMOTE, models such as XGBoost and Logistic Regression, and evaluation with recall, F1-score and confusion matrix | A fraud detection solution that applies AI to spotting suspicious transactions, with model performance measured by recall and F1-score |
 | **[dio-lab-bia-do-futuro](https://github.com/Geovannarn/dio-lab-bia-do-futuro)** | Create an intelligent financial agent for banking, able to go beyond a traditional chatbot | Prototype of a financial agent built with Generative AI, able to anticipate needs, personalize recommendations and act in an advisory role | Prototype focused on personalization, security and reliable answers, including hallucination prevention |
 | **[Extraindo Insights do Feedback de Clientes Banc&aacute;rios](https://github.com/Geovannarn/Extraindo-Insights-do-Feedback-de-Clientes-Banc-rios)** | Turn customers' written feedback into useful information for decisions | Generative AI to analyze feedback, identify relevant information and structure the main insights | Written feedback turned into structured information to support analysis and decision-making |
 | **[caixa-preta-bancaria](https://github.com/Geovannarn/caixa-preta-bancaria)** | Make AI decisions in banking easier to understand, considering behavioral fraud, algorithmic bias, Open Finance and automated decisions | Technical study with advanced prompts (Chain of Thought, Role Play, Prompt Chaining and RAG) and an evaluation of explainable AI (SHAP and LIME) applied to credit granting, based on standards and publications from Banco Central, BIS, NIST and LGPD | Project documented on GitHub, with version control and knowledge management best practices (Bradesco Bootcamp, Jul/2026) |
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D0D0D,50:F4A6C9,100:0D0D0D" width="100%" alt="">
-
-## GitHub in numbers
-
-<div align="center">
-
-<img height="165" alt="Geovanna's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Geovannarn&show_icons=true&theme=transparent&hide_border=true&title_color=F4A6C9&icon_color=F4A6C9&text_color=8B95A5&bg_color=00000000" />
-<img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovannarn&layout=compact&theme=transparent&hide_border=true&title_color=F4A6C9&text_color=8B95A5&bg_color=00000000" />
-
-<br>
-
-<img alt="Contribution streak" src="https://streak-stats.demolab.com?user=Geovannarn&hide_border=true&background=00000000&ring=F4A6C9&fire=F4A6C9&currStreakNum=8B95A5&sideNums=8B95A5&currStreakLabel=F4A6C9&sideLabels=8B95A5&dates=8B95A5" />
-
-<br><br>
-
-<img alt="Activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Geovannarn&bg_color=00000000&color=F4A6C9&line=F4A6C9&point=F5F5F7&area=true&area_color=F4A6C9&hide_border=true" />
-
-<br>
-
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Geovannarn&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" />
-
-</div>
 
 <br>
 
@@ -219,7 +179,7 @@ Email: **grodriguesnascimento14@gmail.com**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,60:14213D,100:F4A6C9&height=180&section=header&text=Geovanna%20Rodrigues%20Nascimento&fontSize=32&fontColor=F5F5F7&fontAlignY=42&desc=Construindo%2C%20entendendo%20e%20sustentando%20sistemas&descAlignY=62&descSize=15&animation=fadeIn" width="100%" alt="Banner: Geovanna Rodrigues Nascimento - Construindo, entendendo e sustentando sistemas"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,60:14213D,100:F4A6C9&height=180&section=header&text=Geovanna%20Rodrigues%20Nascimento&fontSize=32&fontColor=F5F5F7&fontAlignY=50&animation=fadeIn" width="100%" alt="Banner: Geovanna Rodrigues Nascimento"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=300&size=18&duration=3200&pause=900&color=F4A6C9&center=true&vCenter=true&width=600&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Em+busca+de+est%C3%A1gio+em+Suporte+de+TI;Python+%7C+Java+%7C+Django+%7C+SQL+%7C+Git;IA+Generativa+%26+Prompt+Engineering;IA+Expl%C3%A1vel+(SHAP+%2F+LIME);Linux+%2B+Redes+%2B+LGPD" alt="Texto animado: Análise e Desenvolvimento de Sistemas, estágio em Suporte de TI, Python, Java, Django, SQL, Git, IA Generativa, IA Explicável, Linux, Redes e LGPD" />
@@ -248,7 +208,7 @@ Gosto de trabalhar em três frentes que conversam entre si:
 - **Entender:** RAG, Prompt Engineering e IA explicável (SHAP e LIME).
 - **Sustentar:** Linux, linha de comando, redes, DNS, hardware e troubleshooting.
 
-**Objetivo:** conseguir um estágio em Tecnologia da Informação, de preferência em Suporte de TI, aplicando meus conhecimentos técnicos e de gestão de projetos, contribuindo com a equipe e ganhando experiência prática.
+**Objetivo:** conseguir um estágio em Tecnologia.
 
 <br>
 
@@ -256,11 +216,11 @@ Gosto de trabalhar em três frentes que conversam entre si:
 
 | | |
 | :-- | :-- |
-| **Procurando** | Estágio em Suporte de TI |
-| **Cursando** | Análise e Desenvolvimento de Sistemas (Gran Faculdade) |
+| **Procurando** | Estágio em Tecnologia |
+| **Cursando** | Análise e Desenvolvimento de Sistemas |
 | **Ingressando em** | Sistemas de Informação (IFB), fevereiro de 2027 |
 | **Estudando** | Desenvolvimento de Software (IFB, previsão Nov/2026): Django, APIs, bancos de dados e arquitetura de software |
-| **Explorando** | Cibersegurança, dados e IA aplicada ao setor bancário |
+| **Explorando** | Cibersegurança, dados e IA |
 | **Aberta a conversas sobre** | IA explicável, governança de dados e LGPD |
 
 <br>
@@ -268,13 +228,17 @@ Gosto de trabalhar em três frentes que conversam entre si:
 ## Formação
 
 **Gran Faculdade**
-Análise e Desenvolvimento de Sistemas (ADS) · em andamento
+
+Análise e Desenvolvimento de Sistemas (ADS) - em andamento
+
 <sub>Análise de sistemas, desenvolvimento de software, bancos de dados e gestão de projetos.</sub>
 
 <br>
 
 **Instituto Federal de Brasília (IFB)**
-Sistemas de Informação · ingresso em fevereiro de 2027
+
+Sistemas de Informação - ingresso em fevereiro de 2027
+
 <sub>Desenvolvimento de software, bancos de dados, engenharia de software e gestão da informação.</sub>
 
 <br>
@@ -312,6 +276,8 @@ Sistemas de Informação · ingresso em fevereiro de 2027
 <p>
 <img alt="IA Generativa" src="https://img.shields.io/badge/IA%20Generativa-14213D?style=flat-square&logo=openai&logoColor=F4A6C9" />
 <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-14213D?style=flat-square&logo=googlegemini&logoColor=F4A6C9" />
+<img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-14213D?style=flat-square&logo=scikitlearn&logoColor=F4A6C9" />
+<img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-14213D?style=flat-square&logoColor=F4A6C9" />
 <img alt="RAG" src="https://img.shields.io/badge/RAG-14213D?style=flat-square&logo=databricks&logoColor=F4A6C9" />
 <img alt="SHAP e LIME" src="https://img.shields.io/badge/SHAP%20%2F%20LIME-14213D?style=flat-square&logo=scikitlearn&logoColor=F4A6C9" />
 <img alt="Excel" src="https://img.shields.io/badge/Excel-14213D?style=flat-square&logo=microsoftexcel&logoColor=F4A6C9" />
@@ -349,54 +315,12 @@ Sistemas de Informação · ingresso em fevereiro de 2027
 
 ## Projetos em destaque
 
-<div align="center">
-<a href="https://github.com/Geovannarn/deteccao-fraude-carta">
-<img alt="Repositório deteccao-fraude-carta" src="https://github-readme-stats.vercel.app/api/pin/?username=Geovannarn&repo=deteccao-fraude-carta&theme=transparent&title_color=F4A6C9&icon_color=F4A6C9&text_color=8B95A5&border_color=2A3550&bg_color=00000000" />
-</a>
-<a href="https://github.com/Geovannarn/dio-lab-bia-do-futuro">
-<img alt="Repositório dio-lab-bia-do-futuro" src="https://github-readme-stats.vercel.app/api/pin/?username=Geovannarn&repo=dio-lab-bia-do-futuro&theme=transparent&title_color=F4A6C9&icon_color=F4A6C9&text_color=8B95A5&border_color=2A3550&bg_color=00000000" />
-</a>
-<a href="https://github.com/Geovannarn/Extraindo-Insights-do-Feedback-de-Clientes-Banc-rios">
-<img alt="Repositório Extraindo Insights do Feedback de Clientes Bancários" src="https://github-readme-stats.vercel.app/api/pin/?username=Geovannarn&repo=Extraindo-Insights-do-Feedback-de-Clientes-Banc-rios&theme=transparent&title_color=F4A6C9&icon_color=F4A6C9&text_color=8B95A5&border_color=2A3550&bg_color=00000000" />
-</a>
-<a href="https://github.com/Geovannarn/caixa-preta-bancaria">
-<img alt="Repositório caixa-preta-bancaria" src="https://github-readme-stats.vercel.app/api/pin/?username=Geovannarn&repo=caixa-preta-bancaria&theme=transparent&title_color=F4A6C9&icon_color=F4A6C9&text_color=8B95A5&border_color=2A3550&bg_color=00000000" />
-</a>
-</div>
-
-<br>
-
 | Projeto | Problema | Como resolvi | Resultado |
 | :-- | :-- | :-- | :-- |
-| **[deteccao-fraude-carta](https://github.com/Geovannarn/deteccao-fraude-carta)** | Identificar fraudes em transações com cartão | Aplicação de técnicas de análise de dados e machine learning para identificar padrões associados a transações fraudulentas | Solução de detecção de fraudes, aplicando IA à identificação de transações suspeitas |
+| **[deteccao-fraude-carta](https://github.com/Geovannarn/deteccao-fraude-carta)** | Identificar fraudes em transações com cartão | Análise de dados e machine learning para identificar padrões de fraude: balanceamento de classes com SMOTE, modelos como XGBoost e Regressão Logística, e avaliação com recall, F1-score e matriz de confusão | Solução de detecção de fraudes, aplicando IA à identificação de transações suspeitas, com desempenho dos modelos medido por recall e F1-score |
 | **[dio-lab-bia-do-futuro](https://github.com/Geovannarn/dio-lab-bia-do-futuro)** | Criar um agente financeiro inteligente para o setor bancário, capaz de ir além de um chatbot tradicional | Protótipo de agente financeiro com IA Generativa, capaz de antecipar necessidades, personalizar recomendações e atuar de forma consultiva | Protótipo com foco em personalização, segurança e confiabilidade das respostas, incluindo prevenção a alucinações |
 | **[Extraindo Insights do Feedback de Clientes Bancários](https://github.com/Geovannarn/Extraindo-Insights-do-Feedback-de-Clientes-Banc-rios)** | Transformar feedback textual de clientes em informação útil para decisão | Uso de IA Generativa para analisar feedbacks, identificar informações relevantes e estruturar os principais insights | Feedbacks textuais transformados em informações estruturadas para apoiar análises e tomadas de decisão |
 | **[caixa-preta-bancaria](https://github.com/Geovannarn/caixa-preta-bancaria)** | Tornar decisões de IA no setor bancário mais compreensíveis, considerando fraude comportamental, vieses algorítmicos, Open Finance e decisões automatizadas | Estudo técnico com prompts avançados (Chain of Thought, Role Play, Prompt Chaining e RAG) e avaliação de IA explicável (SHAP e LIME) aplicada à concessão de crédito, embasado em normas e publicações do Banco Central, BIS, NIST e LGPD | Projeto documentado no GitHub, com versionamento e boas práticas de gestão do conhecimento (Bootcamp Bradesco, Jul/2026) |
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:0D0D0D,50:F4A6C9,100:0D0D0D" width="100%" alt="">
-
-## GitHub em números
-
-<div align="center">
-
-<img height="165" alt="Estatísticas do GitHub de Geovanna" src="https://github-readme-stats.vercel.app/api?username=Geovannarn&show_icons=true&theme=transparent&hide_border=true&title_color=F4A6C9&icon_color=F4A6C9&text_color=8B95A5&bg_color=00000000" />
-<img height="165" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovannarn&layout=compact&theme=transparent&hide_border=true&title_color=F4A6C9&text_color=8B95A5&bg_color=00000000" />
-
-<br>
-
-<img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=Geovannarn&hide_border=true&background=00000000&ring=F4A6C9&fire=F4A6C9&currStreakNum=8B95A5&sideNums=8B95A5&currStreakLabel=F4A6C9&sideLabels=8B95A5&dates=8B95A5" />
-
-<br><br>
-
-<img alt="Gráfico de atividade" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Geovannarn&bg_color=00000000&color=F4A6C9&line=F4A6C9&point=F5F5F7&area=true&area_color=F4A6C9&hide_border=true" />
-
-<br>
-
-<img alt="Troféus do GitHub" src="https://github-profile-trophy.vercel.app/?username=Geovannarn&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7" />
-
-</div>
 
 <br>
 
@@ -406,7 +330,7 @@ Sistemas de Informação · ingresso em fevereiro de 2027
 
 <div align="center">
 
-Estou em busca de estágio em Suporte de TI. Se você tem uma vaga ou quer trocar ideia sobre tecnologia, me chama.
+Estou em busca de estágio em Tecnologia. Se você tem uma vaga ou quer trocar ideia sobre tecnologia, me chama.
 
 E-mail: **grodriguesnascimento14@gmail.com**
 
